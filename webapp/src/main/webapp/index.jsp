@@ -4,7 +4,7 @@
   </div>
 
   <div class="container">
-    <h2>Login</h2>
+    <h2>Login Page</h2>
   </div>
 
   <div class="container">
