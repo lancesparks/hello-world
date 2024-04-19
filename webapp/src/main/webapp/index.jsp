@@ -10,6 +10,11 @@
 
   <div class="container">
     <label for="uname"><b>Username</b></label>
+
+    <p>this is a new line <br /></p>
+    <p>this is a new line <br /></p>
+    <p>this is a new line <br /></p>
+    <p>this is a new line <br /></p>
     <input type="text" placeholder="Enter Username" name="uname" required />
 
     <label for="uname"><b>Email</b></label>
