@@ -3,6 +3,8 @@
     <h2>New User Logi asasdasdasd</h2>
   </div>
 
+  <p>this is a new line <br /></p>
+
   <div class="container">
     <label for="uname"><b>Username</b></label>
     <input type="text" placeholder="Enter Username" name="uname" required />
